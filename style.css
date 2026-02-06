@@ -1,0 +1,11 @@
+.sectionWrapper2{
+    background-color: aquamarine;
+    padding: 5px;
+}
+.sectionWrapper2 h1{
+    font-size: 72px;
+}
+
+.sectionWrapper2 .body{
+    font-size: 20px;
+}
